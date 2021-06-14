@@ -33,8 +33,8 @@ Imbrifer: instrumentum ad imbrem faciendum, quia opus est nobis crustam panis va
 2. Adde aquam calidam si necesse est. Farina subacta sit elastica, sed non liquida nec glutinosa.
 3. Requiescat farina unam horam.
 4. Depse farinam hoc modo: cape latus farinae, trahe vehementer, deinde retro flecte farinam ad latus alterum. Tum latus alterum cape, et fac itidem. Postea farina versatur (90°), et itera depsendum aliquotiens. Nunc videre potest glutenen farinam bene glutinare et texturam inientem creare.
-5. Magnitudine fermenti duplicata, farinam in vas ferreum formatu pani simile pone. Vas esto ex ferro gracili factum ut cito calefiet.
-6. Foco praeparato, temperatura eius 230 °C usque ad 300 °C est. Pone etiam vas planum aquae plenum in foco sub panem vaporem faciendi gratia.
+5. Magnitudine fermenti duplicata, farinam in vas ferreum formatu pani simile pone. Vas esto ex subtili metallo factum ut cito calefiet!
+6. Foco praeparato, temperatura in eo 230 °C usque ad 300 °C est. Pone etiam vas aquae plenum planumque in foco sub panem vaporem faciendi gratia.
 7. Imbrifero cura ut crusta panis humida sit.
-8. Pone vas farinae plenum in foco. Proximis 10-15 minutis panis magnitudine finali potitur, noli ergo umquam focum aperire! Nunc, tempus est calori et vapori laborem suum absolvere.
-9. Et 5 et 10 minutis ante finem coquandi, crustam panis imbrifero iterum humidificas, ut panis vero splendidus atque crustatus sit.
+8. Pone vas farinae plenum in foco. Proximis 10-15 minutis panis magnitudine finali potietur, noli ergo umquam focum aperire! Nunc, tempus est calori et vapori laborem suum absolvere.
+9. In dedimo et quinto minuto ante finem coquandi crustam panis imbrifero iterum humidificas, ut panis vero splendidus atque crustatus sit.
