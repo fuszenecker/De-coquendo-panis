@@ -1,6 +1,6 @@
 # De Coquando Panis
 
-*Nota bene: Tres sunt componentes panis optimi: farina mollis, calor altus (plus quam 230 °C) et multum vaporis.*
+**Nota bene: Tres sunt componentes panis optimi: farina mollis, calor altus (plus quam 230 °C) et multum vaporis.**
 
 ## Praeferina
 
