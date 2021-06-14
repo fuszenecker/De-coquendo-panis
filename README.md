@@ -2,7 +2,7 @@
 
 **Nota bene: Tres sunt componentes panis optimi: farina mollis, calor altus (plus quam 230 °C) et magna copia vaporis.**
 
-## Praefarina subacta
+## Praefarina
 
 ```
 Componentes praefarinae:
@@ -30,7 +30,7 @@ Imbrifer: instrumentum ad imbrem faciendum, quia opus est nobis crustam panis va
 ```
 
 1. Bene commisce farinam, salem, fermentum novum et praefarinam.
-2. Adde aquam calidam si necesse est. Farina sit elastica, sed non liquida nec glutinosa.
+2. Adde aquam calidam si necesse est. Farina subacta sit elastica, sed non liquida nec glutinosa.
 3. Requiescat farina unam horam.
 4. Depse farinam hoc modo: cape latus farinae, trahe vehementer, deinde retro flecte farinam ad latus alterum. Tum latus alterum cape, et fac itidem. Farina versatur (90°), et itera depsendum aliquotiens. Nunc videre potest glutenen farinam bene glutinare et texturam inientem creare.
 5. Magnitudine fermenti duplicata, farinam in vas ferreum formatu pani simile pone. Vas esto ex ferro gracili factum ut cito calefiet.
