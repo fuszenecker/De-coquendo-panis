@@ -17,7 +17,7 @@ Opus est tibi praefarinam facere eo modo:
 1. Bene misce farinam et aquam calidam et fermentum.
 2. Haec mixtum liquidum in ollam pone, et requiescat unam noctem.
 
-## Panis ille
+## Panis ipse
 
 ```
 Ingredientes panis:
