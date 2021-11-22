@@ -1,4 +1,4 @@
-# De Coquendo Panis
+# De coquendo panis
 
 **Nota bene: tres sunt componentes panis optimi: farina mollis, calor altus (plus quam 230 °C) et magna copia vaporis.**
 
